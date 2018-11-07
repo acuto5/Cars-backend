@@ -1,0 +1,29 @@
+{
+  "name": "cars-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj-balticpartner/Cars-Back-end.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dj-balticpartner/Cars-Back-end/issues"
+  },
+  "homepage": "https://github.com/dj-balticpartner/Cars-Back-end#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
